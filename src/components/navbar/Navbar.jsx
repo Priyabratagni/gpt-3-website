@@ -17,12 +17,14 @@ const Navbar = () => {
           <p><a href="#wgpt3">What is AI-PSG?</a></p>
           <p><a href="#possibility">How does it Work</a></p>
           <p><a href="#features">Key Features</a></p>
-          <p><a href="https://www.google.com/">Demo</a></p>
+          <p><a href="https://www.google.com/">From Globe</a></p>
+          <p><a href="https://www.google.com/">Upload File</a></p>
+          {/* <p><a href="https://www.google.com/">Demo</a></p> */}
           
         </div>
       </div>
       <div className="gpt3__navbar-sign">
-      <form action="https://www.google.com/">
+      <form action="https://ubiquitous-cannoli-8123e4.netlify.app">
         <button href="button">AI - PSG</button>
       </form>
 
@@ -40,8 +42,6 @@ const Navbar = () => {
             <p><a href="#wgpt3">What is AI-PSG?</a></p>
             <p><a href="#possibility">How does it Work</a></p>
             <p><a href="#features">How does it Work</a></p>
-            
-            
             
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
