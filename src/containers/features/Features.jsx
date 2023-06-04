@@ -4,28 +4,28 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Fast and Accurate',
+    text: 'Our AI model has been trained on a vast amount of data to understand and comprehend complex information. It can provide precise answers to a wide range of questions.It will help to answer and generate trained data in multiple different ways.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Contextual Understanding',
+    text: 'Our AI system takes into account the context of the document and the question being asked, enabling it to provide more accurate and relevant answers.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Scalable Solution',
+    text: 'Whether you have a single PDF document or a large collection of documents, our AI system can handle the workload efficiently and provide answers in real-time.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Extract data from Google and Youtube',
+    text: 'It extract the information you asked from GOOGLE and YOUTUBE, so that you dont need go anywhere and get in single page more quickly.',
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
-      <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">Get all your Queries answered with the help of an AI.</h1>
+      <p>Experience it Now</p>
     </div>
     <div className="gpt3__features-container">
       {featuresData.map((item, index) => (
