@@ -41,7 +41,9 @@ const Navbar = () => {
             <p><a href="#home">Home</a></p>
             <p><a href="#wgpt3">What is AI-PSG?</a></p>
             <p><a href="#possibility">How does it Work</a></p>
-            <p><a href="#features">How does it Work</a></p>
+            <p><a href="#features">Key Features</a></p>
+          <p><a href="https://www.google.com/">From Globe</a></p>
+          <p><a href="https://www.google.com/">Upload File</a></p>
             
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
